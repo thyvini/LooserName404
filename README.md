@@ -8,24 +8,20 @@ I'm an enthusiast developer who loves programming 🙂👨‍💻
 Currently I'm working with PHP and JavaScript (JQuery), but I'm open to new horizons.
 
 ## Currently Studying
-- C# and .NET
+- C#, F# and .NET
 - Unity
 - ASP.NET Core
 - Docker
-- ReactJS
-- React Native
-- Java
+- Angular
 - Clean Code
 - Domain-Driven Design
 - Test-Driven Development
 
 ## Intend to Study
-- F#
 - Godot
 - Unreal Engine
 - LibGDx
 - Elixir
-- AngularJS
 - Kotlin (for Back-end, mostly)
 - Any weird or underrated technology/framework/language (just for fun)
 
