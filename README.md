@@ -5,23 +5,17 @@
 
 I'm an enthusiast developer who loves programming 🙂👨‍💻
 
-Currently I'm working with PHP and JavaScript (JQuery), but I'm open to new horizons.
+Currently I'm working with C#, ASP.NET Core, Azure Functions, JavaScript and API integrations, but I'm open to new horizons.
 
 ## Currently Studying
-- C#, F# and .NET
+- .NET(F#, C#, ASP.NET Core)
 - Unity
-- ASP.NET Core
-- Docker
-- Angular
-- Clean Code
-- Domain-Driven Design
-- Test-Driven Development
 
 ## Intend to Study
-- Godot
-- Unreal Engine
-- LibGDx
-- Elixir
+- F# Frameworks (Giraffe, Fable, Freya, SAFE Stack)
+- Front-End (SASS, Less, React, Redux)
+- Game Development (Unreal Engine, Godot, Monogame)
+- Haskell
 - Kotlin (for Back-end, mostly)
 - Any weird or underrated technology/framework/language (just for fun)
 
