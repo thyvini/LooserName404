@@ -8,8 +8,9 @@ I'm an enthusiast developer who loves programming 🙂👨‍💻
 Currently I'm working with C#, ASP.NET Core, Azure Functions, JavaScript and API integrations, but I'm open to new horizons.
 
 ## Currently Studying
-- .NET(F#, C#, ASP.NET Core)
-- Unity
+- .NET(F#, C#, ASP.NET Core) #️⃣
+- Unity 🎮
+- Vim ⌨
 
 ## Intend to Study
 - F# Frameworks (Giraffe, Fable, Freya, SAFE Stack)
