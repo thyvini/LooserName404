@@ -5,14 +5,12 @@
 
 I'm an enthusiast developer who loves programming 🙂👨‍💻
 
-Currently I'm working with C#, ASP.NET Core, Azure Functions, JavaScript and API integrations, but I'm open to new horizons.
-
 ## Currently Studying
 - .NET(C#, ASP.NET Core, F#)
-- JavaScript & Node.js
+- JavaScript & TypeScript
 
 ## Intend to Study
-- Front-End (SASS, Less, React, Redux)
+- Front-End (SASS, Less, Redux, Angular)
 - Tests and TDD
 - Advanced OOP Concepts and best practices
 - F# & Frameworks (Fable, SAFE Stack, Giraffe)
